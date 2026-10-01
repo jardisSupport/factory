@@ -4,7 +4,7 @@ description: PSR-11 Container with Reflection-based instantiation and backend co
 user-invocable: false
 zone: post-active
 persona: C
-prerequisites: [rules-architecture, rules-patterns]
+prerequisites: [foundation-architecture, foundation-patterns]
 next: []
 ---
 
